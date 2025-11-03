@@ -23,3 +23,9 @@ Matplotlib
 Seaborn
 
 Scikit-learn
+
+scipy
+
+jobilab
+
+itertools
